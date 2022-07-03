@@ -1,11 +1,9 @@
 <script setup>
-import NAV from './components/NAV.vue'
-import Header from './components/Header.vue';
+import Page from "./components/Page.vue";
 </script>
 
 <template>
-  <Header/>
-  <NAV/>
+  <Page/>
 </template>
 
 <style>
