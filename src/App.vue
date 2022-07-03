@@ -1,8 +1,10 @@
 <script setup>
 import NAV from './components/NAV.vue'
+import Header from './components/Header.vue';
 </script>
 
 <template>
+  <Header/>
   <NAV/>
 </template>
 
